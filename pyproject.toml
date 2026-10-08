@@ -1,0 +1,10 @@
+[project]
+name = "pentagram-research-milestone"
+version = "0.1.0"
+description = "Interactive PySide6 research prototype for the Pentagram capstone."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyside6>=6.8",
+]
+
