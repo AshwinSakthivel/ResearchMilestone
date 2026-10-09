@@ -27,7 +27,7 @@ Install [uv](https://docs.astral.sh/uv/) once, then run these commands from this
 
 ```bash
 uv sync
-uv run python src/main.py
+uv run python main.py
 ```
 
 `uv sync` installs the declared dependencies and creates `uv.lock`. Commit that lockfile to Git after it is generated.
